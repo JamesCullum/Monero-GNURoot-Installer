@@ -1,6 +1,8 @@
 # Monero GNURoot Installer
 
-This is a simple setup shell script that makes it easier to start using the current Monero version on Android in GNURoot. 
+This is a simple setup shell script that makes it easier to start using the current Monero version on Android in [GNURoot](https://play.google.com/store/apps/details?id=champion.gnuroot&hl=de). This is a lot safer than the future MyMonero app, Freewallet's Monero app, web wallets and more flexible/compatible than NDK compiled versions (afaik).
+
+GnuRoot is an Android app, emulating a Linux OS that allows you to run the official Monero CLI client for maximum security on Android. **The phone doesn't need to be rooted.** 
 
 ### Installation
 
